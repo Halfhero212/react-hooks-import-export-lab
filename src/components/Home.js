@@ -1,9 +1,9 @@
 import React from "react";
+import { username, city } from '../data/user.js';
+
+
 
 function Home() {
-
-  const username = "Someone"
-  const city = "Some city"
 
   return (
     <div id="home">
